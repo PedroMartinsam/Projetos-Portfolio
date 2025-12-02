@@ -6,8 +6,8 @@ Aqui estão os certificados referentes ao **Módulo 3** do curso **CAIXA - Intel
 
 ## 📄 Certificados
 
-<img src="./img/1QOKTFQK.jpg" width="330px"><img src="./img/3374ZDLN.jpg" width="330px"><img src="./img/43FWWYF8.jpg" width="330px">
-<img src="./img/TUOYRMDK.jpg" width="330px"><img src="./img/V8769IQ.jpg" width="330px">
+<img src="./img/1QOKTFQK.jpg" width="330px"><img src="./img/3374ZDNL.jpg" width="330px"><img src="./img/43FWWYF8.jpg" width="330px">
+<img src="./img/TUOYRMDK.jpg" width="330px"><img src="./img/VV8769IQ.jpg" width="330px">
 
 
 
