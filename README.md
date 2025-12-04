@@ -41,6 +41,11 @@ Este repositório foi criado para centralizar meus principais projetos e apresen
   Link do projeto:
 https://github.com/PedroMartinsam/Projeto-Financeiro-KAVII
 
+- 💼 **Projeto APUF – Associação dos Trabalhadores Urbanos de Fernandópolis**  
+  Plataforma web para divulgação de produtos, gerenciamento de pedidos e fortalecimento da economia local, com área administrativa, carrinho de compras e controle de vendas.
+  Link do projeto:  
+  https://github.com/PedroMartinsam/APUF
+
 ---
 
 ## 🔗 Contato
