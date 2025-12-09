@@ -28,6 +28,11 @@ Neste módulo foram abordados os conceitos iniciais da programação, como:
 - Organização de código em arquivos `.js`
 
 ---
+## 📚 Imagens script.js
+  <img src="./Projetos/variaveis_e_constantes/img/ajudando_vovo.png" width="330px"> <img src="./Projetos/variaveis_e_constantes/img/tela_pokemon.png" width="330px">
+
+
+---
 ## 🚀 Scripts Desenvolvidos
 
 ### ✅ script.js — Mensagem no Console e Variáveis
@@ -54,7 +59,7 @@ console.log(notificacao + "você foi derrotado por um líder")
 
 ---
 ### ✅ script3.js — Simulação da Cozinha da Vovó
-<img src="./Projetos/variaveis_e_constantes/img/ajudando_vovo.png width="330px"> 
+
 
 let poteCafe = "café pilão"
 let poteAcucar = "Açucar cristal"
@@ -77,7 +82,7 @@ poteBiscoito
 
 ---
 ### ✅ script4.js — Cadastro de Pokémon
-<img src="./Projetos/variaveis_e_constantes/img/tela_pokemon.png" width="330px"> 
+
 
 //pokemon
 let nomePokemon = "pikachu"
@@ -99,6 +104,9 @@ let numeroTelefone = "(17) 98471-3388"
 let cpf = "321.321.321-32"
 let endereco = "Rua das flores, numero 321, bairro jardim das rosas"
 let recebePensao = true
+
+---
+
 
 
 
