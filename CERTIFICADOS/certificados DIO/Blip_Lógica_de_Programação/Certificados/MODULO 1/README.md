@@ -28,12 +28,21 @@ Neste módulo foram abordados os conceitos iniciais da programação, como:
 - Organização de código em arquivos `.js`
 
 ---
-## 📚 Imagens script.js
+##📚 Imagens script.js
+
+variaveis_e_constantes
+
   <img src="./Projetos/variaveis_e_constantes/img/ajudando_vovo.png" width="330px"> <img src="./Projetos/variaveis_e_constantes/img/tela_pokemon.png" width="330px">
+---
+Vetores_e_matrizes
+
+
+<img src="./Projetos/Vetores_e_matrizes/img/caixa.png" width="330px">
 
 
 ---
 ## 🚀 Scripts Desenvolvidos
+## 📚 variaveis_e_constantes
 
 ### ✅ script.js — Mensagem no Console e Variáveis
 
@@ -107,6 +116,16 @@ let recebePensao = true
 
 ---
 
+## 📚 Vetores_e_matrizes
+### ✅ script.js
+let nomesPokemon = ["Pikachu" , "Chamander", "Bulbassaur"]
+let timePokemon = [
+  ["pikachu", "M", 1],
+  ["Chamander", "F", 3]
+]
 
+
+console.log(" O pokemon " + timePokemon[1][0] + " é do sexo " +  timePokemon[1][1] + 
+" e está no nível " + timePokemon[1][2] )
 
 
