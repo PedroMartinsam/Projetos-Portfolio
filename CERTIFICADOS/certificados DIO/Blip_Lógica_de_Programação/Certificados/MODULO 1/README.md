@@ -10,7 +10,7 @@
 Repositório criado para armazenar os projetos, exercícios e exemplos desenvolvidos durante o **Módulo 1 do curso Blip - Lógica de Programação**, oferecido pela **DIO (Digital Innovation One)**.
 ---
 ## 📚 certificados
-<img src="./Projetos/variaveis_e_constantes/img/tela_pokemon.png" width="330px"> <img src="./img" width="330px"> <img src="./img" width="330px"> 
+<img src="./img" width="330px"> <img src="./img" width="330px"> <img src="./img" width="330px"> 
 <img src="./img" width="330px"> <img src="./img" width="330px"> <img src="./img" width="330px"> 
 
 
@@ -54,7 +54,7 @@ console.log(notificacao + "você foi derrotado por um líder")
 
 ---
 ### ✅ script3.js — Simulação da Cozinha da Vovó
-<img src="./Certificados/MODULO 1/Projetos/variaveis_e_constantes/img/ajudando_vovo.png" width="330px"> 
+<img src="./Projetos/variaveis_e_constantes/img/ajudando_vovo.png width="330px"> 
 
 let poteCafe = "café pilão"
 let poteAcucar = "Açucar cristal"
@@ -77,7 +77,7 @@ poteBiscoito
 
 ---
 ### ✅ script4.js — Cadastro de Pokémon
-<img src="./img/tela_pokemon.png" width="330px"> 
+<img src="./Projetos/variaveis_e_constantes/img/tela_pokemon.png" width="330px"> 
 
 //pokemon
 let nomePokemon = "pikachu"
