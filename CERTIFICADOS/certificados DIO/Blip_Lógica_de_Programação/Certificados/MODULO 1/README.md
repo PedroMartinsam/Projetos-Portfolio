@@ -10,8 +10,8 @@
 Repositório criado para armazenar os projetos, exercícios e exemplos desenvolvidos durante o **Módulo 1 do curso Blip - Lógica de Programação**, oferecido pela **DIO (Digital Innovation One)**.
 ---
 ## 📚 certificados
-<img src="./img" width="330px"> <img src="./img" width="330px"> <img src="./img" width="330px"> 
-<img src="./img" width="330px"> <img src="./img" width="330px"> <img src="./img" width="330px"> 
+<img src="./img/DKRHTGHE.png" width="330px"> <img src="./img/KWRAS3FM.png" width="330px"> <img src="./img/P1X0LUFD.png" width="330px"> 
+<img src="./img/9YLWKVK6.png" width="330px"> <img src="./img/X3GMHOW7.png" width="330px"> <img src="./img/K7T38UDE.png" width="330px"> 
 
 
 ---
