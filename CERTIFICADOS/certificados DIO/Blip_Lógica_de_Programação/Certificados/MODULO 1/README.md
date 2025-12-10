@@ -42,90 +42,82 @@ Vetores_e_matrizes
 
 ---
 ## 🚀 Scripts Desenvolvidos
-## 📚 variaveis_e_constantes
 
-### ✅ script.js — Mensagem no Console e Variáveis
-
-```js
-//exibr uma mensagem no console
-console.log("Digite o nome do seu jogador")
-
-// declara a variavel
-let nickname = "Pedro mxr"
-
-//concatena a variavel com o texto
-console.log("Bem vindo ao jogo" + nickname)
-console.log(nickname + "entrou no jogo")
-
----
-### ✅ script2.js — Sistema de Notificações
-
-const notificacao = "Pokemon Go diz: "
-
-//saida
-console.log(notificacao + "tem um novo pokemon na região")
-console.log(notificacao + "você foi derrotado por um líder")
-
----
-### ✅ script3.js — Simulação da Cozinha da Vovó
-
-
-let poteCafe = "café pilão"
-let poteAcucar = "Açucar cristal"
-let poteBiscoito = "Biscoito Maizena"
-const messagemDaVovo = "Na cozinha da vovó hoje tem: "
-
-console.log(messagemDaVovo + 
-poteCafe + " - " +
-poteAcucar + " - " +
-poteBiscoito
-)
-
-poteCafe = "Café 3 corações"
-
-console.log(messagemDaVovo + 
-poteCafe + " - " +
-poteAcucar + " - " +
-poteBiscoito
-)
-
----
-### ✅ script4.js — Cadastro de Pokémon
-
-
-//pokemon
-let nomePokemon = "pikachu"
-let pokemonSexo = "M"
-let nivelPokemon = 20
-let pontosDeVidaPokemon = 45
-let selecionavel = false
-
----
-### ✅ script5.js — Cadastro de Pessoa
-// nome, idade, numero de telefone, cpf, endereço, recebePensao
-//string = armazena texto
-// number = armazena numeros
-// boolean = armazena valores logicos
-
-let nomePessoa = "Iolanda amaral"
-let idade = 75
-let numeroTelefone = "(17) 98471-3388"
-let cpf = "321.321.321-32"
-let endereco = "Rua das flores, numero 321, bairro jardim das rosas"
-let recebePensao = true
+Este módulo apresenta os primeiros conceitos de **variáveis, constantes, concatenação de textos, vetores e matrizes em JavaScript**, usando exemplos simples e didáticos baseados em jogos, notificações e situações do dia a dia.
 
 ---
 
-## 📚 Vetores_e_matrizes
-### ✅ script.js
-let nomesPokemon = ["Pikachu" , "Chamander", "Bulbassaur"]
-let timePokemon = [
-  ["pikachu", "M", 1],
-  ["Chamander", "F", 3]
-]
+## 📚 Módulo: Variáveis e Constantes
 
+### ✅ script.js — Mensagem no Console e Uso de Variáveis  
+Neste script, é exibida uma mensagem no console solicitando o nome do jogador. Em seguida:  
+- Uma variável é criada para armazenar o nome do jogador.  
+- O nome é concatenado com mensagens de boas-vindas.  
+- O console mostra quando o jogador entra no jogo.  
 
-console.log(" O pokemon " + timePokemon[1][0] + " é do sexo " +  timePokemon[1][1] + 
-" e está no nível " + timePokemon[1][2] )
+💡 **Conceitos praticados:**  
+`console.log`, criação de variável (`let`) e concatenação de strings.
+
+---
+
+### ✅ script2.js — Sistema de Notificações  
+Simula um sistema de notificações de jogo:  
+- Uma constante armazena o texto fixo da notificação.  
+- O sistema exibe mensagens informando novidades e derrotas.  
+
+💡 **Conceitos praticados:**  
+Uso de `const` e reaproveitamento de texto em saídas no console.
+
+---
+
+### ✅ script3.js — Simulação da Cozinha da Vovó  
+Simula itens de uma cozinha:  
+- São criadas variáveis para café, açúcar e biscoito.  
+- Uma mensagem principal apresenta todos os itens.  
+- Em seguida, um dos itens é atualizado e a nova lista é exibida novamente.  
+
+💡 **Conceitos praticados:**  
+Atualização de variáveis, concatenação em múltiplas linhas e simulação de cenário real.
+
+---
+
+### ✅ script4.js — Cadastro de Pokémon  
+Simula o cadastro completo de um Pokémon:  
+- Nome  
+- Sexo  
+- Nível  
+- Pontos de vida  
+- Se ele é selecionável ou não  
+
+💡 **Conceitos praticados:**  
+Variáveis do tipo `string`, `number` e `boolean`.
+
+---
+
+### ✅ script5.js — Cadastro de Pessoa  
+Simula o cadastro de uma pessoa, contendo:  
+- Nome  
+- Idade  
+- Telefone  
+- CPF  
+- Endereço  
+- Se recebe pensão  
+
+💡 **Conceitos praticados:**  
+Tipos de dados (`string`, `number` e `boolean`) aplicados a um exemplo do mundo real.
+
+---
+
+## 📚 Módulo: Vetores e Matrizes
+
+### ✅ script.js — Vetores e Matrizes com Pokémon  
+Neste script:  
+- Um vetor armazena uma lista de nomes de Pokémon.  
+- Uma matriz armazena dados completos de cada Pokémon (nome, sexo e nível).  
+- O programa acessa os dados da matriz e exibe uma frase automática com as informações.  
+
+💡 **Conceitos praticados:**  
+Arrays (vetores), matrizes e acesso por índice (`[linha][coluna]`).
+
 
 
