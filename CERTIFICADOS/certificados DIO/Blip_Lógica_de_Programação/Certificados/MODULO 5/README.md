@@ -10,8 +10,8 @@
 Repositório criado para armazenar os projetos, exercícios e exemplos desenvolvidos durante o **Módulo 5 do curso Blip - Lógica de Programação**, oferecido pela **DIO (Digital Innovation One)**.
 ---
 ## 📚 certificados
-<img src="./img/" width="330px"> <img src="./img/" width="330px"> <img src="./img/" width="330px"> 
-<img src="./img/" width="330px"> 
+<img src="./img/B6EENPNB.png" width="330px"> <img src="./img/JP5WFBAM.png" width="330px"> <img src="./img/BNOEKWBZ.png" width="330px"> 
+<img src="./img/M5Q0W8WE.png" width="330px"> <img src="./img/NYPRAQTY.png" width="330px">
 
 # 🛡️ Jogo de Heróis - Projeto JavaScript
 
