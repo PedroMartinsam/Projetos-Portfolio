@@ -3,7 +3,7 @@
 Aqui estão os certificados referentes ao Formação Github Certification da DIO.
 
 ---
-<img src="./img/" width="330px">
+<img src="./img/HJEA5YEU.png" width="330px">
 
 ---
 #Formação Github Certification
