@@ -19,4 +19,4 @@ Esse repositório reúne os exercícios / projetos práticos realizados no conte
 ## 🧰 Tecnologias / Ferramentas  
 - Git / GitHub  
 - GitHub Copilot  
-- (adicione aqui as linguagens, frameworks ou ferramentas usadas nos exercícios — ex: Python, JavaScript, React, etc.)
+
