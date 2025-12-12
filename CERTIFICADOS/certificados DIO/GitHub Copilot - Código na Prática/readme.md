@@ -3,10 +3,10 @@
 Aqui estão os certificados referentes ao GitHub Copilot - Código na Prática da DIO.
 
 ---
-5KNBCZBL.png
 
 
-<img src="./img/COFTJBI7.png" width="330px"> <img src="./img/5KNBCZBL.png" width="330px"> <img src="./img/TQ5GQSS7.png" width="330px"> 
+
+<img src="./img/5KNBCZBL.png" width="330px"> <img src="./img/COFTJBI7.png" width="330px"> <img src="./img/TQ5GQSS7.png" width="330px"> 
 <img src="./img/NTUVPUXD.png" width="330px"><img src="./img/TZQ8XYNM.png" width="330px"> <img src="./img/EHZUGBDY.png" width="330px">
  <img src="./img/5N5EUQE3.png" width="330px"><img src="./img/DBBYDAUI.png" width="330px"> <img src="./img/NQVNEEBA.png" width="330px">
  <img src="./img/YCGUMRRG.png" width="330px"><img src="./img/RX4YKAKJ.png" width="330px">
