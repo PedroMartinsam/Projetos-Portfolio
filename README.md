@@ -6,7 +6,7 @@ Bem-vindo ao meu repositório de principais projetos! Aqui você encontrará apl
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante de **Sistemas de Informação**, com foco em **Desenvolvimento Front-end e Back-end**, apaixonado por tecnologia e por criar soluções através do código. Busco minha **primeira oportunidade profissional na área**, onde eu possa aprender, evoluir e contribuir com projetos reais.  
+Sou estudante de **Sistemas de Informação**, com foco em **Desenvolvimento Front-end e Back-end**, apaixonado por tecnologia e por criar soluções através do código. Busco minha **primeira oportunidade profissional na área**, onde eu possa aprender, evoluir e contribuir com projetos reais. 
 
 Tenho perfil proativo, gosto de desafios e estou em constante evolução por meio de estudos, cursos e desenvolvimento de aplicações práticas.
 
