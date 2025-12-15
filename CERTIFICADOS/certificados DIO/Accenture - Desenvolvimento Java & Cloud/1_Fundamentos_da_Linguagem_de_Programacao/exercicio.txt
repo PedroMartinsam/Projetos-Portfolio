@@ -1,0 +1,96 @@
+Accenture - Desenvolvimento Java & Cloud
+
+Fundamentos da Linguagem de Programação Java
+
+Escreva um código que receba o nome e o ano de nascimento de alguém e imprima na tela a seguinte mensagem: "Olá 'Fulano' você tem 'X' anos"
+import java.util.Scanner;
+
+public class Exercicio1 {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+
+        System.out.print("Digite seu nome: ");
+        String nome = scanner.nextLine();
+
+        System.out.print("Digite o ano de nascimento: ");
+        int anoNascimento = scanner.nextInt();
+
+        int anoAtual = 2025;
+        int idade = anoAtual - anoNascimento;
+
+        System.out.println("Olá " + nome + ", você tem " + idade + " anos");
+
+        scanner.close();
+    }
+}
+
+
+
+Escreva um código que receba o tamanho do lado de um quadrado, calcule sua área e exiba na tela
+import java.util.Scanner;
+
+public class Exercicio2 {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+
+        System.out.print("Digite o tamanho do lado do quadrado: ");
+        double lado = scanner.nextDouble();
+
+        double area = lado * lado;
+
+        System.out.println("A área do quadrado é: " + area);
+
+        scanner.close();
+    }
+}
+
+
+fórmula: área=lado X lado Escreva um código que receba a base e a alturade um retângulo, calcule sua área e exiba na tela
+import java.util.Scanner;
+
+public class Exercicio3 {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+
+        System.out.print("Digite a base do retângulo: ");
+        double base = scanner.nextDouble();
+
+        System.out.print("Digite a altura do retângulo: ");
+        double altura = scanner.nextDouble();
+
+        double area = base * altura;
+
+        System.out.println("A área do retângulo é: " + area);
+
+        scanner.close();
+    }
+}
+
+
+fórmula: área=base X altura Escreva um código que receba o nome e a idade de 2 pessoas e imprima a diferença de idade entre elas
+import java.util.Scanner;
+
+public class Exercicio4 {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+
+        System.out.print("Nome da primeira pessoa: ");
+        String nome1 = scanner.nextLine();
+
+        System.out.print("Idade da primeira pessoa: ");
+        int idade1 = scanner.nextInt();
+        scanner.nextLine(); // limpar buffer
+
+        System.out.print("Nome da segunda pessoa: ");
+        String nome2 = scanner.nextLine();
+
+        System.out.print("Idade da segunda pessoa: ");
+        int idade2 = scanner.nextInt();
+
+        int diferenca = Math.abs(idade1 - idade2);
+
+        System.out.println("A diferença de idade entre " + nome1 + " e " + nome2 + " é de " + diferenca + " anos");
+
+        scanner.close();
+    }
+}
