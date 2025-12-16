@@ -1,5 +1,5 @@
 # 🧠 Blip - Lógica de Programação
-<img src="./MODULO_1/img/E4KJMG8AA.png width="330px">
+<img src="./MODULO_1/img/E4KJMG8A.png width="330px">
 <img src="./MODULO_1/img/DKRHTGHE.png" width="330px">
 
 # 🧠 Blip - Lógica de Programação | Módulo 1
