@@ -4,7 +4,7 @@
 
 # 🧠 Blip - Lógica de Programação | Módulo 1
 ## 📚 certificados
-<img src="./MODULO_1/img/E4KJMG8AA.png width="330px">
+<img src="./MODULO_1/img/E4KJMG8A.png width="330px">
 <img src="./MODULO_1/img/DKRHTGHE.png" width="330px"> <img src="./MODULO_1/img/KWRAS3FM.png" width="330px"> <img src="./MODULO_1/img/P1X0LUFD.png" width="330px"> 
 <img src="./MODULO_1/img/9YLWKVK6.png" width="330px"> <img src="./MODULO_1/img/X3GMHOW7.png" width="330px"> <img src="./MODULO_1/img/K7T38UDE.png" width="330px"> 
 
