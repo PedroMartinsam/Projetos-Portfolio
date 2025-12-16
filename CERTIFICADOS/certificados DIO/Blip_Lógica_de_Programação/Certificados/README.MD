@@ -1,5 +1,5 @@
 
-<img src="./E4KJMG8A.png" 
+<img src="E4KJMG8A.png" 
 # 🧠 Blip - Lógica de Programação | Módulo 1
 ## 📚 certificados
 <img src="./MODULO_1/img/DKRHTGHE.png" width="330px"> <img src="./MODULO_1/img/KWRAS3FM.png" width="330px"> <img src="./MODULO_1/img/P1X0LUFD.png" width="330px"> 
