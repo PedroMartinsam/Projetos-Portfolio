@@ -1,4 +1,4 @@
-# 🧠 BliNexa - Machine Learning e GenAI na Prática
+# 🧠 Nexa - Machine Learning e GenAI na Prática
 <img src="./PJS7ZYY5.png" width="330px">
 
 # 🧠 Nexa - Machine Learning e GenAI na Prática | Módulo 1
