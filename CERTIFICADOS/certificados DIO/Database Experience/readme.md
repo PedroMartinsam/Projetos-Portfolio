@@ -28,7 +28,7 @@
 
 # Database Experience | Módulo 3
 ## 📚 certificados
-<img src="./MODULO_3/img/LXT8QVJN.pdf" width="330px"> <img src="./MODULO_3/img/WIPCPIBG.png" width="330px">
+<img src="./MODULO_3/img/LXT8QVJN.png" width="330px"> <img src="./MODULO_3/img/WIPCPIBG.png" width="330px">
 
 ---
 
