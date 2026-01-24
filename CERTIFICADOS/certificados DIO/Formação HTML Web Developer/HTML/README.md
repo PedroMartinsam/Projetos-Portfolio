@@ -13,7 +13,8 @@ Os projetos foram criados como parte da **Formação HTML Web Developer**, com o
 Projeto introdutório que apresenta a estrutura mínima de um documento HTML, utilizando as tags principais como `<html>`, `<head>`, `<title>` e `<body>`, além de um título e um parágrafo simples.
 
 📸 **Print do projeto:**  
-<img src="./img/img_readme_html/ 01.png" width="330px">
+<img src=".\img\img_readme_html/01.png" width="330px">
+
 
 ---
 
