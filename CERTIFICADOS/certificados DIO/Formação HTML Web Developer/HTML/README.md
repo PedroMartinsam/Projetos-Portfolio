@@ -13,7 +13,7 @@ Os projetos foram criados como parte da **Formação HTML Web Developer**, com o
 Projeto introdutório que apresenta a estrutura mínima de um documento HTML, utilizando as tags principais como `<html>`, `<head>`, `<title>` e `<body>`, além de um título e um parágrafo simples.
 
 📸 **Print do projeto:**  
-<img src=".\img\img_readme_html/01.png" width="330px">
+<img src=".\img\img_readme_html/01.png" width="900px">
 
 
 ---
@@ -23,7 +23,7 @@ Projeto introdutório que apresenta a estrutura mínima de um documento HTML, ut
 Exemplo prático do uso de diversas tags HTML básicas, incluindo formatação de texto (itálico, negrito, sublinhado, marcação), campos de formulário, botão, imagem e link.
 
 📸 **Print do projeto:**  
-![02_tags](./prints/02_tags.png)
+<img src=".\img\img_readme_html/02.png" width="900px">
 
 ---
 
@@ -32,7 +32,7 @@ Exemplo prático do uso de diversas tags HTML básicas, incluindo formatação d
 Projeto focado na utilização dos principais atributos das tags HTML, como `href`, `src`, `alt`, `width`, `name`, `placeholder`, `required`, `action` e `method`, aplicados em links, imagens e formulários.
 
 📸 **Print do projeto:**  
-![03_atributos_das_tags](./prints/03_atributos_das_tags.png)
+<img src=".\img\img_readme_html/03.png" width="900px">
 
 ---
 
@@ -41,7 +41,7 @@ Projeto focado na utilização dos principais atributos das tags HTML, como `hre
 Demonstração das principais tags utilizadas para organização e formatação de textos, incluindo títulos, parágrafos, listas, citações e elementos de destaque como negrito e itálico.
 
 📸 **Print do projeto:**  
-![04_texto](./prints/04_texto.png)
+<img src=".\img\img_readme_html/04.png" width="900px">
 
 ---
 
@@ -50,7 +50,7 @@ Demonstração das principais tags utilizadas para organização e formatação 
 Projeto simples demonstrando a criação de listas ordenadas (`<ol>`) e não ordenadas (`<ul>`), utilizando itens de lista (`<li>`), além de exemplos básicos de navegação.
 
 📸 **Print do projeto:**  
-![05_listas](./prints/05_listas.png)
+<img src=".\img\img_readme_html/05.png" width="900px">
 
 ---
 
@@ -59,7 +59,7 @@ Projeto simples demonstrando a criação de listas ordenadas (`<ol>`) e não ord
 Exemplo do uso da tag `<a>` para criação de links, explorando atributos como `href`, `target` e `title`, demonstrando diferentes comportamentos de navegação.
 
 📸 **Print do projeto:**  
-![06_links](./prints/06_links.png)
+<img src=".\img\img_readme_html/06.png" width="900px">
 
 ---
 
@@ -68,7 +68,7 @@ Exemplo do uso da tag `<a>` para criação de links, explorando atributos como `
 Projeto final do módulo, onde foi criada uma página web completa utilizando apenas HTML. A página contém títulos, parágrafos, listas, imagem, tabela e formulário, consolidando os conhecimentos adquiridos durante o curso.
 
 📸 **Print do projeto:**  
-![07_desafio_web](./prints/07_desafio_web.png)
+<img src=".\img\img_readme_html/07.png" width="900px">
 
 ---
 
