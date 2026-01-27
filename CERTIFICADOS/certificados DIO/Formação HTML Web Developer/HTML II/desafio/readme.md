@@ -59,13 +59,7 @@ O site representa uma clínica médica fictícia chamada **Clínica Saúde Total
   - Organização visual básica
   - Separação de layout e conteúdo
 
----
 
-## 📸 Print do Projeto
-
-<img src="./img/img_readme_html/01desafio.png" width="900px">
-
----
 
 ## 🎯 Objetivo Técnico
 
