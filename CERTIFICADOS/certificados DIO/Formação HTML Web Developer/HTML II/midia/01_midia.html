@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Exemplo de Mídias em HTML</title>
+</head>
+<body>
+
+    <h1>Trabalhando com Mídias em HTML</h1>
+
+    <!-- IMAGEM -->
+    <h2>Imagem</h2>
+    <img src="img/exemplo.jpg" alt="Imagem de exemplo" width="300">
+
+    <hr>
+
+    <!-- ÁUDIO -->
+    <h2>Áudio</h2>
+    <audio controls>
+        <source src="audio/exemplo.mp3" type="audio/mpeg">
+        Seu navegador não suporta áudio.
+    </audio>
+
+    <hr>
+
+    <!-- VÍDEO -->
+    <h2>Vídeo</h2>
+    <video controls width="400">
+        <source src="video/exemplo.mp4" type="video/mp4">
+        Seu navegador não suporta vídeo.
+    </video>
+
+    <hr>
+
+    <!-- VÍDEO COM LEGENDA -->
+    <h2>Vídeo com legenda (track)</h2>
+    <video controls width="400">
+        <source src="video/exemplo.mp4" type="video/mp4">
+        <track src="legenda/legenda.vtt" kind="subtitles" srclang="pt-BR" label="Português">
+        Seu navegador não suporta vídeo.
+    </video>
+
+    <hr>
+
+    <!-- IFRAME -->
+    <h2>Iframe</h2>
+    <iframe 
+        src="https://www.youtube.com/embed/dQw4w9WgXcQ"
+        width="400"
+        height="225"
+        frameborder="0"
+        allowfullscreen>
+    </iframe>
+
+</body>
+</html>
