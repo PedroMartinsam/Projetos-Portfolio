@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Wiki Moderna | Projeto Portfólio</title>
+  <meta name="description" content="Projeto de portfólio recriando a Wikipedia com foco em semântica, acessibilidade e layout moderno." />
+
+  <style>
+    :root {
+      --primary: #1a73e8;
+      --background: #f5f6fa;
+      --text: #202124;
+      --gray: #5f6368;
+      --border: #dadce0;
+      --card: #ffffff;
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--background);
+      color: var(--text);
+      line-height: 1.6;
+    }
+
+    header {
+      background: #fff;
+      border-bottom: 1px solid var(--border);
+      padding: 16px 24px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    header h1 {
+      font-size: 1.4rem;
+      color: var(--primary);
+    }
+
+    header nav a {
+      margin-left: 16px;
+      text-decoration: none;
+      color: var(--gray);
+      font-weight: 500;
+    }
+
+    header nav a:hover {
+      color: var(--primary);
+    }
+
+    main {
+      max-width: 1200px;
+      margin: 32px auto;
+      padding: 0 24px;
+      display: grid;
+      grid-template-columns: 260px 1fr;
+      gap: 24px;
+    }
+
+    aside {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 20px;
+      height: fit-content;
+    }
+
+    aside h2 {
+      font-size: 1rem;
+      margin-bottom: 12px;
+    }
+
+    aside ul {
+      list-style: none;
+    }
+
+    aside ul li {
+      margin-bottom: 8px;
+    }
+
+    aside ul li a {
+      text-decoration: none;
+      color: var(--primary);
+      font-size: 0.9rem;
+    }
+
+    article {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 32px;
+    }
+
+    article h2 {
+      font-size: 1.8rem;
+      margin-bottom: 16px;
+    }
+
+    article h3 {
+      margin-top: 32px;
+      margin-bottom: 8px;
+      border-bottom: 1px solid var(--border);
+      padding-bottom: 4px;
+    }
+
+    article p {
+      margin-bottom: 16px;
+    }
+
+    article ul {
+      margin-left: 20px;
+      margin-bottom: 16px;
+    }
+
+    footer {
+      margin-top: 64px;
+      padding: 24px;
+      text-align: center;
+      font-size: 0.9rem;
+      color: var(--gray);
+    }
+
+    footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+
+    @media (max-width: 900px) {
+      main {
+        grid-template-columns: 1fr;
+      }
+
+      aside {
+        order: 2;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Wiki Moderna</h1>
+    <nav aria-label="Navegação principal">
+      <a href="#">Início</a>
+      <a href="#">Artigos</a>
+      <a href="#">Sobre</a>
+      <a href="#">Contato</a>
+    </nav>
+  </header>
+
+  <main>
+    <aside aria-label="Menu lateral">
+      <h2>Conteúdo</h2>
+      <ul>
+        <li><a href="#intro">Introdução</a></li>
+        <li><a href="#html">HTML</a></li>
+        <li><a href="#semantica">Semântica</a></li>
+        <li><a href="#acessibilidade">Acessibilidade</a></li>
+        <li><a href="#referencias">Referências</a></li>
+      </ul>
+    </aside>
+
+    <article>
+      <h2 id="intro">HTML – Linguagem de Marcação</h2>
+      <p>
+        O <strong>HTML</strong> (HyperText Markup Language) é a linguagem base da web, responsável por estruturar conteúdos como textos, imagens, links e formulários.
+      </p>
+
+      <h3 id="html">O que é HTML?</h3>
+      <p>
+        HTML utiliza <em>tags</em> para representar semanticamente cada parte do conteúdo, permitindo que navegadores, leitores de tela e mecanismos de busca compreendam melhor a informação.
+      </p>
+
+      <ul>
+        <li>Estrutura páginas web</li>
+        <li>Trabalha em conjunto com CSS e JavaScript</li>
+        <li>É mantido pelo W3C</li>
+      </ul>
+
+      <h3 id="semantica">Semântica</h3>
+      <p>
+        A semântica no HTML moderno melhora a organização do código e a acessibilidade. Tags como <code>&lt;header&gt;</code>, <code>&lt;main&gt;</code>, <code>&lt;article&gt;</code> e <code>&lt;footer&gt;</code> dão significado ao conteúdo.
+      </p>
+
+      <h3 id="acessibilidade">Acessibilidade</h3>
+      <p>
+        Um site acessível permite que pessoas com deficiência naveguem utilizando tecnologias assistivas, como leitores de tela. O uso correto de semântica, atributos <code>aria</code> e contraste adequado são fundamentais.
+      </p>
+
+      <h3 id="referencias">Referências</h3>
+      <ul>
+        <li><a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">MDN Web Docs</a></li>
+        <li><a href="https://www.w3.org/" target="_blank">W3C</a></li>
+        <li><a href="https://pt.wikipedia.org" target="_blank">Wikipedia</a></li>
+      </ul>
+    </article>
+  </main>
+
+  <footer>
+    <p>
+      Projeto desenvolvido por <strong>Pedro Emmanuel Amaral Martins</strong> • Portfólio Front-end
+    </p>
+    <p>
+      <a href="https://github.com/PedroMartinsam" target="_blank">GitHub</a>
+    </p>
+  </footer>
+
+</body>
+</html>
