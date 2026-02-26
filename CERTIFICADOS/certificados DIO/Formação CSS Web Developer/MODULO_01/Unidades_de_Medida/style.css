@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 30px;
+}
+
+/* ===================== */
+/* UNIDADES ABSOLUTAS */
+/* ===================== */
+
+.px {
+    font-size: 20px; /* Pixels */
+}
+
+.cm {
+    font-size: 1cm; /* Centímetros */
+}
+
+.mm {
+    font-size: 5mm; /* Milímetros */
+}
+
+/* ===================== */
+/* UNIDADES RELATIVAS */
+/* ===================== */
+
+.em {
+    font-size: 2em; /* Relativo ao elemento pai */
+}
+
+.rem {
+    font-size: 2rem; /* Relativo ao root (html) */
+}
+
+.percent {
+    width: 50%;
+    background: lightblue;
+}
+
+.vw {
+    font-size: 5vw; /* Relativo à largura da tela */
+}

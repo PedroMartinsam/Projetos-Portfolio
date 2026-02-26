@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<title>Combinadores CSS</title>
+
+<style>
+/* 1️ Descendente (espaço) */
+/* Seleciona todo <p> que esteja dentro de uma <div> */
+div p {
+    color: blue;
+}
+
+/* 2️ Filho (>) */
+/* Seleciona apenas filhos DIRETOS */
+div > span {
+    color: red;
+    font-weight: bold;
+}
+
+/* 3️ Irmão adjacente (+) */
+/* Seleciona o primeiro elemento após o h2 */
+h2 + p {
+    background: yellow;
+}
+
+/* 4️ Irmão geral (~) */
+/* Seleciona todos os irmãos depois do h3 */
+h3 ~ p {
+    color: green;
+}
+</style>
+
+</head>
+<body>
+
+<h1>Combinadores CSS</h1>
+
+<div>
+    <p>Parágrafo dentro da div (descendente)</p>
+
+    <span>Span filho direto da div</span>
+
+    <div>
+        <span>Span NÃO é filho direto</span>
+    </div>
+</div>
+
+<h2>Título h2</h2>
+<p>Parágrafo irmão adjacente do h2</p>
+<p>Outro parágrafo (não será afetado pelo +)</p>
+
+<h3>Título h3</h3>
+<p>Primeiro irmão após h3</p>
+<p>Segundo irmão após h3</p>
+
+</body>
+</html>
