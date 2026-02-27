@@ -1,0 +1,34 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 40px;
+}
+
+.container {
+  display: flex;
+  background: lightgray;
+  height: 120px;
+}
+
+.item {
+  background: orange;
+  margin: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-size: 20px;
+}
+
+
+
+.item1 {
+  flex: 1 1 100px;
+}
+
+.item2 {
+  flex: 2 1 100px;
+}
+
+.item3 {
+  flex: 1 2 100px;
+}

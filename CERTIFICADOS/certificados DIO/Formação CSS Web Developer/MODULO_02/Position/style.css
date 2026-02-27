@@ -1,0 +1,122 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 40px;
+  height: 2000px; /* pra permitir scroll */
+}
+
+h1 {
+  margin-bottom: 30px;
+}
+
+.container {
+  position: relative;
+  border: 2px solid #000;
+  padding: 20px;
+  margin-bottom: 50px;
+}
+
+/* ========================= */
+/* STATIC (PADRÃO) */
+/* ========================= */
+.static {
+  position: static;
+  background: #3b82f6;
+}
+
+/*
+👉 Padrão do navegador
+👉 Não aceita top, left, etc.
+*/
+
+/* ========================= */
+/* RELATIVE */
+/* ========================= */
+.relative {
+  position: relative;
+  top: 20px;
+  left: 20px;
+  background: #22c55e;
+}
+
+/*
+👉 Move em relação à posição original
+👉 Mantém espaço original
+*/
+
+/* ========================= */
+/* ABSOLUTE */
+/* ========================= */
+.absolute-parent {
+  position: relative;
+  height: 150px;
+  background: #e2e8f0;
+  margin-top: 30px;
+}
+
+.absolute {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background: #f97316;
+}
+
+/*
+👉 Sai do fluxo normal
+👉 Fica relativo ao pai com position relative
+*/
+
+/* ========================= */
+/* FIXED */
+/* ========================= */
+.fixed {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background: #ef4444;
+  color: white;
+  padding: 15px;
+}
+
+/*
+👉 Fica fixo na tela
+👉 Não se move com scroll
+*/
+
+/* ========================= */
+/* STICKY */
+/* ========================= */
+.sticky {
+  position: sticky;
+  top: 0;
+  background: #8b5cf6;
+  padding: 15px;
+  margin-top: 50px;
+}
+
+/*
+👉 Age como relative
+👉 Quando encosta no topo vira "fixo"
+*/
+
+/* ========================= */
+/* Z-INDEX */
+/* ========================= */
+.box {
+  padding: 20px;
+  margin: 10px 0;
+  color: white;
+  font-weight: bold;
+}
+
+.relative {
+  z-index: 2;
+}
+
+/*
+👉 z-index controla quem fica na frente
+👉 Só funciona em elementos com position diferente de static
+*/
+
+.spacer {
+  height: 1500px;
+}

@@ -1,0 +1,31 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 40px;
+}
+
+.container {
+  display: flex;
+  height: 200px;
+  background: lightgray;
+  align-items: center; /* Centraliza todos */
+}
+
+.item {
+  width: 80px;
+  height: 80px;
+  background: orange;
+  margin: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-size: 20px;
+}
+
+/* ========================= */
+/* ALIGN-SELF */
+/* ========================= */
+
+.especial {
+  align-self: flex-start;
+}

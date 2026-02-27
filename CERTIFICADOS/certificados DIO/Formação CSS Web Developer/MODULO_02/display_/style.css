@@ -1,0 +1,79 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 40px;
+}
+
+h1 {
+  margin-bottom: 30px;
+}
+
+h2 {
+  margin-top: 40px;
+  margin-bottom: 15px;
+  color: #0ea5e9;
+}
+
+/* ========================= */
+/* DISPLAY BLOCK */
+/* ========================= */
+.block {
+  display: block;
+  background-color: #0ea5e9;
+  color: white;
+  padding: 15px;
+  margin-bottom: 10px;
+}
+
+/*
+ Ocupa 100% da largura disponível
+ Sempre quebra linha
+*/
+
+/* ========================= */
+/* DISPLAY INLINE */
+/* ========================= */
+.inline {
+  display: inline;
+  background-color: #22c55e;
+  color: white;
+  padding: 10px;
+}
+
+/*
+ Não quebra linha
+ Não aceita width e height
+*/
+
+/* ========================= */
+/* DISPLAY INLINE-BLOCK */
+/* ========================= */
+.inline-block {
+  display: inline-block;
+  width: 150px;
+  height: 60px;
+  background-color: #f97316;
+  color: white;
+  text-align: center;
+  line-height: 60px;
+  margin-right: 10px;
+}
+
+/*
+ Fica na mesma linha
+ Aceita width e height
+*/
+
+/* ========================= */
+/* DISPLAY NONE */
+/* ========================= */
+.none {
+  display: none;
+  background-color: red;
+  color: white;
+  padding: 20px;
+}
+
+/*
+ Some da tela
+ Não ocupa espaço
+*/
