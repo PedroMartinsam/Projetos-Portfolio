@@ -1,0 +1,33 @@
+.container{
+    border: 1px solid black;
+    padding: 10px;
+    margin-bottom: 20px;
+    background-color: yellow;
+
+    display: grid;
+    grid-template-columns: 200px 200px 200px;
+    grid-template-rows: 300px 200px;
+}
+
+.item{
+    border:1px solid black;
+}
+
+.item-01{
+    background-color: lightblue;
+}
+.item-02{
+    background-color: lightcoral;
+}   
+.item-03{
+    background-color: lightgreen;
+}
+.item-04{
+    background-color: lightpink;
+}
+.item-05{
+    background-color: lightgray;
+}
+.item-06{
+    background-color: lightyellow;
+}

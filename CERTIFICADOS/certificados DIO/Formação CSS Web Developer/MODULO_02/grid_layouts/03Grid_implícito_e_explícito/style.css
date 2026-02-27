@@ -1,0 +1,44 @@
+/* RESET */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+}
+
+body {
+  background: #111;
+  color: white;
+  text-align: center;
+  padding: 40px;
+}
+
+h1 {
+  margin-bottom: 30px;
+}
+
+/* CONTAINER GRID */
+.container {
+  display: grid;
+
+  /* 🔵 GRID EXPLÍCITO */
+  grid-template-columns: repeat(3, 150px);
+  grid-template-rows: 100px 100px;
+
+  gap: 15px;
+  justify-content: center;
+
+  /* 🟡 GRID IMPLÍCITO */
+  grid-auto-rows: 120px;
+}
+
+/* ITENS */
+.item {
+  background: crimson;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 24px;
+  font-weight: bold;
+  border-radius: 8px;
+}
