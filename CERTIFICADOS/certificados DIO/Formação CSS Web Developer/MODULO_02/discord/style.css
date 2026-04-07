@@ -1,0 +1,149 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+}
+
+body {
+  color: #23272a;
+}
+
+/* HEADER */
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 10%;
+  background: #5865f2;
+  color: white;
+}
+
+.nav a {
+  margin: 0 15px;
+  color: white;
+  text-decoration: none;
+  font-size: 14px;
+}
+
+.login {
+  background: white;
+  color: black;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 20px;
+  cursor: pointer;
+}
+
+/* HERO */
+.hero {
+  background: #5865f2;
+  color: white;
+  text-align: center;
+  padding: 120px 20px;
+}
+
+.hero h1 {
+  font-size: 48px;
+  margin-bottom: 20px;
+}
+
+.hero p {
+  max-width: 600px;
+  margin: auto;
+  margin-bottom: 30px;
+}
+
+.buttons button {
+  margin: 10px;
+  padding: 12px 25px;
+  border-radius: 25px;
+  border: none;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+.btn-light {
+  background: white;
+  color: black;
+}
+
+.btn-dark {
+  background: #23272a;
+  color: white;
+}
+
+/* SECTIONS */
+.section {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 100px 10%;
+  gap: 50px;
+}
+
+.section.reverse {
+  flex-direction: row-reverse;
+  background: #f6f6f6;
+}
+
+.section .text {
+  flex: 1;
+}
+
+.section .text h2 {
+  font-size: 32px;
+  margin-bottom: 20px;
+}
+
+.section .image {
+  flex: 1;
+  height: 300px;
+  background: #ddd;
+  border-radius: 10px;
+}
+
+/* CTA */
+.cta {
+  text-align: center;
+  padding: 100px 20px;
+  background: #f6f6f6;
+}
+
+.btn-primary {
+  background: #5865f2;
+  color: white;
+  border: none;
+  padding: 15px 30px;
+  border-radius: 30px;
+  cursor: pointer;
+}
+
+/* FOOTER */
+.footer {
+  text-align: center;
+  padding: 30px;
+  background: #23272a;
+  color: white;
+}
+
+/* RESPONSIVO */
+@media (max-width: 900px) {
+
+  .section {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .section.reverse {
+    flex-direction: column;
+  }
+
+  .nav {
+    display: none;
+  }
+
+  .hero h1 {
+    font-size: 32px;
+  }
+}
