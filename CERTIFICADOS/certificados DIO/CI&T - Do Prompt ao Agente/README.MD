@@ -1,97 +1,124 @@
-# 🧠 Sistema de Participação Cidadã Inteligente
+# 📚 Estudo Dirigido – Fundamentos de Inteligência Artificial
 
-## 📌 Sobre o Projeto
-Este projeto consiste no desenvolvimento de um sistema de informação voltado à **transparência pública e participação cidadã**, permitindo que a população interaja diretamente com a gestão municipal.
+Este repositório contém um conjunto de resumos e questões de múltipla escolha voltados para o estudo dos principais conceitos de Inteligência Artificial, com foco em preparação para avaliação acadêmica.
 
-A proposta é utilizar tecnologia para reduzir a distância entre cidadãos e governo, promovendo mais engajamento, organização urbana e acesso à informação.
+---
+
+## 🧠 Conteúdos Abordados
+
+### 🔹 1. Fundamentos da IA
+
+* IA Simbólica (baseada em regras e lógica)
+* IA Conexionista (Machine Learning)
+* Diferença entre regressão e classificação
+* Teste de Turing e Sala Chinesa
+
+---
+
+### 🔹 2. Sistemas Especialistas
+
+* Definição e objetivo
+* Estrutura:
+
+  * Base de Conhecimento
+  * Motor de Inferência
+  * Interface com o usuário
+  * Módulo de explicação
+* Encadeamento:
+
+  * Forward Chaining (progressivo)
+  * Backward Chaining (regressivo)
+
+---
+
+### 🔹 3. Agentes Inteligentes
+
+* Conceito de agente
+* Sensores e atuadores
+* Tipos de agentes:
+
+  * Reativos
+  * Deliberativos
+* Arquitetura BDI:
+
+  * Beliefs (Crenças)
+  * Desires (Desejos)
+  * Intentions (Intenções)
+
+---
+
+### 🔹 4. Engenharia do Conhecimento
+
+* Elicitação de conhecimento
+* Técnicas:
+
+  * Laddering
+  * Card Sorting
+  * Protocolos Verbais
+  * Análise de Casos
+* Conhecimento tácito
+* Ontologias e modelagem
+
+---
+
+## 📝 Questões de Múltipla Escolha
+
+Este material inclui **20 questões objetivas**, organizadas da seguinte forma:
+
+* 📌 5 questões – Fundamentos da IA
+* 📌 5 questões – Sistemas Especialistas
+* 📌 5 questões – Agentes Inteligentes
+* 📌 5 questões – Engenharia do Conhecimento
+
+✔ Todas as questões possuem **4 alternativas**
+✔ **Sem respostas**, para simular ambiente de prova
 
 ---
 
 ## 🎯 Objetivo
-Desenvolver uma plataforma digital que permita:
 
-- Registrar denúncias urbanas
-- Acompanhar o andamento das solicitações
-- Compartilhar avisos públicos
-- Incentivar a participação ativa da população
+O objetivo deste material é:
 
----
-
-## 🚨 Problema
-A população frequentemente enfrenta dificuldades para:
-
-- Acessar informações públicas relevantes
-- Reportar problemas urbanos de forma eficiente
-- Acompanhar o status de suas solicitações
-- Participar de decisões e discussões sobre a cidade
+* Reforçar os conceitos teóricos de IA
+* Auxiliar na preparação para provas
+* Simular questões no estilo acadêmico
+* Desenvolver raciocínio lógico aplicado
 
 ---
 
-## 💡 Solução Proposta
-O sistema oferece um ambiente centralizado onde cidadãos podem:
+## 🛠 Tecnologias Utilizadas
 
-- Registrar denúncias (ex: buracos, iluminação, lixo)
-- Acompanhar o status das solicitações
-- Visualizar avisos e comunicados públicos
-- Compartilhar ideias e sugestões
-- Participar de ações sociais e doações
+* 📄 Markdown (documentação)
+* 🧠 Conceitos teóricos de Inteligência Artificial
+* 🐍 Referências práticas com Python e Machine Learning
 
 ---
 
-## ⚙️ Funcionalidades
+## 🚀 Como Utilizar
 
-### 🧾 Denúncias Urbanas
-- Cadastro de ocorrências
-- Classificação por categoria
-- Upload de imagens
-
-### 📊 Acompanhamento
-- Status da denúncia (pendente, em análise, resolvido)
-- Histórico de atualizações
-
-### 📢 Painel Público
-- Avisos da prefeitura
-- Eventos e comunicados
-
-### 💬 Participação Popular
-- Espaço para ideias e sugestões
-- Interação entre usuários
-
-### 🎁 Doações
-- Cadastro de necessidades
-- Sistema de contribuição para entidades
+1. Leia o resumo teórico de cada tema
+2. Resolva as questões propostas
+3. Revise os conceitos onde tiver dificuldade
+4. Repita o processo até dominar o conteúdo
 
 ---
 
-## 🤖 Diferencial (Opcional)
-Uso de Inteligência Artificial para:
+## 📌 Observações
 
-- Priorizar denúncias com base em impacto social
-- Analisar dados da região
-- Sugerir melhorias urbanas
-
-> Ferramentas como :contentReference[oaicite:0]{index=0} utilizam IA para analisar documentos e gerar insights com base em dados fornecidos, o que inspira a proposta deste sistema. :contentReference[oaicite:1]{index=1}
+Este material foi desenvolvido como atividade acadêmica, com base em conteúdos estudados em sala de aula e materiais complementares.
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## 👨‍💻 Autor
 
-### Front-end
-- HTML
-- CSS
-- JavaScript / React
-
-### Back-end
-- Java (Spring Boot)
-
-### Banco de Dados
-- PostgreSQL
-
-### Outros
-- API REST
-- JWT (Autenticação)
+**Pedro Emmanuel Amaral Martins**
+📧 [pedromartinsstr@gmail.com](mailto:pedromartinsstr@gmail.com)
+🔗 GitHub: https://github.com/PedroMartinsam
 
 ---
 
-## 📐 Arquitetura
-O sistema segue uma arquitetura cliente-servidor:
+## ⭐ Considerações Finais
+
+Este projeto representa um resumo estruturado dos principais conceitos de Inteligência Artificial, sendo uma excelente base para revisões rápidas e fixação de conteúdo.
+
+Se este material te ajudou, considere deixar uma ⭐ no repositório!
