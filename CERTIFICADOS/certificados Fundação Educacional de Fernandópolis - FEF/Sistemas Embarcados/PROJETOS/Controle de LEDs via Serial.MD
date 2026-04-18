@@ -27,7 +27,7 @@ Abra o **Monitor Serial** do Arduino e envie os seguintes comandos:
 
 ## 📷 Ilustração do Projeto
 
-<img src="./PROJETOS/IMG_PROJETOS/Controle-de-LEDs-via-Serial.png" width="700px">
+<img src="../IMG_PROJETOS/Controle-de-LEDs-via-Serial.png" width="700px">
 
 ---
 
