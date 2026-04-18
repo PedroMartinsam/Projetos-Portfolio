@@ -18,7 +18,7 @@ Sistema que monitora a temperatura e indica com LEDs.
 
 ### 🚦 LED Sequence Controller
 
-<a href="https://github.com/PedroMartinsam/led-sequence-controller">
+<a href="https://github.com/PedroMartinsam/Projetos-Portfolio/blob/main/CERTIFICADOS/certificados%20Funda%C3%A7%C3%A3o%20Educacional%20de%20Fernand%C3%B3polis%20-%20FEF/Sistemas%20Embarcados/PROJETOS/Led%20Sequence%20Controller.md">
  <img src="./IMG_PROJETOS/led-sequence-controller.png" width="250px">
 </a>
 
@@ -30,7 +30,7 @@ Sequência de LEDs simulando um semáforo.
 
 ### 🎮 Controle de LEDs via Serial
 
-<a href="https://github.com/PedroMartinsam/controle-leds-serial">
+<a href="https://github.com/PedroMartinsam/Projetos-Portfolio/blob/main/CERTIFICADOS/certificados%20Funda%C3%A7%C3%A3o%20Educacional%20de%20Fernand%C3%B3polis%20-%20FEF/Sistemas%20Embarcados/PROJETOS/Controle%20de%20LEDs%20via%20Serial.MD">
   <img src="./IMG_PROJETOS/Controle-de-LEDs-via-Serial.png" width="250px">
 </a>
 
