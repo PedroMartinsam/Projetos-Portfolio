@@ -152,14 +152,7 @@ O sistema responde instantaneamente aos comandos enviados pelo monitor serial, p
 
 ---
 
-## 🚀 Possíveis Melhorias
 
-* Criar interface web para controle remoto 🌐
-* Adicionar Bluetooth (HC-05) 📱
-* Integrar com aplicativo mobile
-* Criar modos automáticos (efeitos de luz) ✨
-
----
 
 ## 👨‍💻 Autor
 
