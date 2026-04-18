@@ -1,43 +1,41 @@
-# 🚀 Meus Projetos com Arduino
+# 🚀 Projetos com Arduino
 
-<p align="center">
+<table>
+<tr>
+<td align="center">
+
+### 🌡️ Temperature Level Indicator
 
 <a href="https://github.com/PedroMartinsam/temperature-led-indicator">
   <img src="./IMG_PROJETOS/temperature-level-indicator-with-leds-arduino.png" width="250"/>
 </a>
 
+Sistema que monitora a temperatura e indica com LEDs.
+
+</td>
+
+<td align="center">
+
+### 🚦 LED Sequence Controller
+
 <a href="https://github.com/PedroMartinsam/led-sequence-controller">
   <img src="./IMG_PROJETOS/led-sequence-controller.png" width="250"/>
 </a>
+
+Sequência de LEDs simulando um semáforo.
+
+</td>
+
+<td align="center">
+
+### 🎮 Controle de LEDs via Serial
 
 <a href="https://github.com/PedroMartinsam/controle-leds-serial">
   <img src="./IMG_PROJETOS/controle-de-leds-via-serial.png" width="250"/>
 </a>
 
-</p>
+Controle de LEDs via comandos no monitor serial.
 
----
-
-## 🌡️ Temperature Level Indicator
-
-Sistema que monitora a temperatura ambiente e indica visualmente através de LEDs.
-
-🔗 https://github.com/PedroMartinsam/temperature-led-indicator
-
----
-
-## 🚦 LED Sequence Controller
-
-Projeto que simula uma sequência de LEDs semelhante a um semáforo.
-
-🔗 https://github.com/PedroMartinsam/led-sequence-controller
-
----
-
-## 🎮 Controle de LEDs via Serial
-
-Sistema interativo que permite controlar LEDs através de comandos via monitor serial.
-
-🔗 https://github.com/PedroMartinsam/controle-leds-serial
-
----
+</td>
+</tr>
+</table>
