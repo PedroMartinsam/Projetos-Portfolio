@@ -23,7 +23,7 @@ E o ciclo se repete automaticamente 🔁
 
 ## 📷 Ilustração do Projeto
 
-<img src="./IMG_PROJETOS/led-sequence-controller.png" width="700px">
+<img src="../IMG_PROJETOS/led-sequence-controller.png" width="700px">
 
 ---
 
