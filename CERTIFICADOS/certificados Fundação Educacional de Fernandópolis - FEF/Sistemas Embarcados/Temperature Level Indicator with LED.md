@@ -22,12 +22,12 @@ O Arduino:
 
 | Temperatura (°C) | LED  | Descrição       |
 | ---------------- | ---- | --------------- |
-| < -10°C          | LED1 | Muito frio 🟦   |
+| < -10°C          | LED1 | Muito frio      |
 | -10°C a 10°C     | LED2 | Frio            |
-| 10°C a 30°C      | LED3 | Agradável 🟢    |
-| 30°C a 60°C      | LED4 | Quente 🟡       |
-| 60°C a 90°C      | LED5 | Muito quente 🟠 |
-| > 90°C           | LED6 | Extremo 🔴      |
+| 10°C a 30°C      | LED3 | Agradável       |
+| 30°C a 60°C      | LED4 | Quente          |
+| 60°C a 90°C      | LED5 | Muito quente    |
+| > 90°C           | LED6 | Extremo         |
 
 ---
 
