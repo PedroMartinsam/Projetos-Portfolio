@@ -6,7 +6,7 @@
 
 ### 🌡️ Temperature Level Indicator
 
-<a href="https://github.com/PedroMartinsam/temperature-led-indicator">
+<a href="https://github.com/PedroMartinsam/PROJETOS/temperature-led-indicator">
   <img src="./IMG_PROJETOS/temperature-level-indicator-with-led-arduino.png" width="250px">
 </a>
 
