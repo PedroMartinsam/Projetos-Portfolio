@@ -5,7 +5,7 @@
 <td align="center">
 
 
----
+
 
 
 ### 🌡️ Temperature Level Indicator
