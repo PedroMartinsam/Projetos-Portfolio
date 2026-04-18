@@ -3,19 +3,7 @@
 <table>
 <tr>
 <td align="center">
-# 🚗 Smart Parking Sensor (Arduino)
 
-<img src="../IMG_PROJETOS/smart-parking-sensor.png" width="700px">
-
-## 📌 Descrição
-
-Sistema inteligente de auxílio para estacionamento que utiliza sensor ultrassônico para medir a distância de obstáculos, indicando a proximidade através de LEDs e alerta sonoro com buzzer.
-
----
-
-## 🔗 Acesse o Projeto
-
-👉 https://github.com/PedroMartinsam/smart-parking-sensor
 
 ---
 
