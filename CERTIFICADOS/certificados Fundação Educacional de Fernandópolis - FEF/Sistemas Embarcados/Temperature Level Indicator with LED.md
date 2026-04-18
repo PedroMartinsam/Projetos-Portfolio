@@ -126,15 +126,6 @@ O sistema indica em tempo real a temperatura do ambiente através de LEDs, permi
 
 ---
 
-## 🚀 Possíveis Melhorias
-
-* Criar barra de LEDs progressiva 🌡️
-* Adicionar display LCD para mostrar temperatura 📟
-* Enviar dados para web (IoT) 🌐
-* Criar alertas de temperatura crítica 🚨
-
----
-
 ## 👨‍💻 Autor
 
 Pedro Martins
