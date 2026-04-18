@@ -33,7 +33,7 @@ O Arduino:
 
 ## 📷 Ilustração do Projeto
 
-<img src="./IMG_PROJETOS/temperature-level-indicator-with-led-arduino.png" width="700px">
+<img src="../IMG_PROJETOS/temperature-level-indicator-with-led-arduino.png" width="700px">
 
 ---
 
